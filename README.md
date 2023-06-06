@@ -1,6 +1,6 @@
 # ESp32-Watch
 
-Still working this (Git) out. 
+Still working this (Git) out.  
 Code to follow, all designs based on Bodmer's excellent work.
 
 
