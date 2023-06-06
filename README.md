@@ -1,7 +1,7 @@
 # ESp32-Watch
 
-Still working this (Git) out
-code to follow
+Still working this (Git) out. 
+Code to follow
 
 
 
