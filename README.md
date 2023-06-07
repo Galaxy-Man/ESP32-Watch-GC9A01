@@ -1,4 +1,4 @@
-# ESp32-Watch GC901a
+# ESP32-Watch GC901a
 
 Still working this (Git) out.  
 Code to follow, all designs based on Bodmer's excellent work.
