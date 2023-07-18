@@ -1,6 +1,5 @@
 # ESP32-Watch GC9A01
 
-Still working this out (Git).  
 Code to follow, all designs based on Bodmer's excellent work.
 
 # ESP32 Gruen Watch  
